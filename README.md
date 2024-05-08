@@ -32,6 +32,12 @@ To get started with the Z3bola Protocol, follow these steps:
  ```bash
   Yarn install
 ```
+```bash
+  npm next dev
+```
+ ```bash
+  Yarn start
+```
 This will start the application and you can access it through your web browser.
 
 ## Contribution
